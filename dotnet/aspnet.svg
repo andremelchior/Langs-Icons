@@ -8,15 +8,15 @@
     y="0"
     width="256"
     height="256"
-    rx="24"
-    ry="24"
-    fill="#f0f0f0ff" 
+    rx="25"
+    ry="25"
+    fill="#512bd4" 
   />
 
   <g paint-order="stroke fill markers"
      transform="translate(16 24) scale(0.85)">
 
-    <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="219.4" y="62.2" fill="#5159bf" stroke-width="13.1" font-size="59.9" text-anchor="end" transform="scale(1.09 .92)"><tspan x="225" y="52.2">ASP.NET</tspan></text>
+    <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="219.4" y="62.2" fill="#ffffffff" stroke-width="13.1" font-size="65" text-anchor="end" transform="scale(1.09 .92)"><tspan x="232" y="52.2">ASP.NET</tspan></text>
 
     <rect
       width="48.5"
@@ -31,9 +31,9 @@
 
     <path
       fill="none"
-      stroke="#5159bf"
+      stroke="#ffffffff"
       stroke-linecap="square"
-      stroke-width="9.6"
+      stroke-width="15"
       d="M151 109
          a71 72 0 0 0-98 3
          a71 72 0 0 0-1 100
@@ -41,11 +41,11 @@
     />
 
     <text
-      fill="#7277a9"
-      font-size="120"
+      fill="#ffffffff"
+      font-size="125"
       text-anchor="end"
       stroke-width="31.2" transform="scale(1.09 .92)">
-      <tspan x="224
+      <tspan x="230
       " y="210">re</tspan>
     </text>
   </g>
