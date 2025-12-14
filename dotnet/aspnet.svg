@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 256 256"
+     font-family="Arial"
+     font-stretch="condensed"
+     font-weight="400">
+  <rect
+    x="0"
+    y="0"
+    width="256"
+    height="256"
+    rx="24"
+    ry="24"
+    fill="#f0f0f0ff" 
+  />
+
+  <g paint-order="stroke fill markers"
+     transform="translate(16 24) scale(0.85)">
+
+    <text xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="219.4" y="62.2" fill="#5159bf" stroke-width="13.1" font-size="59.9" text-anchor="end" transform="scale(1.09 .92)"><tspan x="225" y="52.2">ASP.NET</tspan></text>
+
+    <rect
+      width="48.5"
+      height="52.4"
+      x="78"
+      y="-190"
+      fill="#40ccf4"
+      rx="23.2"
+      ry="25.3"
+      transform="scale(1 -1)"
+    />
+
+    <path
+      fill="none"
+      stroke="#5159bf"
+      stroke-linecap="square"
+      stroke-width="9.6"
+      d="M151 109
+         a71 72 0 0 0-98 3
+         a71 72 0 0 0-1 100
+         a71 72 0 0 0 99 4"
+    />
+
+    <text
+      fill="#7277a9"
+      font-size="120"
+      text-anchor="end"
+      stroke-width="31.2" transform="scale(1.09 .92)">
+      <tspan x="224
+      " y="210">re</tspan>
+    </text>
+  </g>
+</svg>
+
